@@ -30,7 +30,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
             src="headset.svg"
             alt="headset"
             className="w-1/2 h-1/2 object-contain"
-          />A
+          />
         </div>
         <p className="font-normal text-[16px] leading-[20px] text-white uppercase">
           Explore the Planet
