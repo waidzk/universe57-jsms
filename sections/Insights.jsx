@@ -16,7 +16,7 @@ const Insights = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <TypingText title="| Insight" textStyles="text-center" />
-      <TitleText title="Insight about Metaversus" textStyles="text-center" />
+      <TitleText title="Insight about Universe 57" textStyles="text-center" />
       <div className="mt-[50px] flex flex-col gap-[30px]">
         {insights.map((insight, index) => (
           <InsightCard

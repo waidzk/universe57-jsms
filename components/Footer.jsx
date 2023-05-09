@@ -30,7 +30,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            Let"s play in Universe 57
+            Let's play in Universe 57
           </span>
         </button>
       </div>
